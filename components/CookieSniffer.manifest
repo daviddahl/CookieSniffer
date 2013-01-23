@@ -1,0 +1,3 @@
+component {249d0520-cf75-4f6c-9b5c-600bce80b543} CookieSniffer.js
+contract @mozilla.org/cookie-sniffer;1 {249d0520-cf75-4f6c-9b5c-600bce80b543}
+category app-startup CookieSniffer @mozilla.org/cookie-sniffer;1
